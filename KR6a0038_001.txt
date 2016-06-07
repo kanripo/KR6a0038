@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:29.980639
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:26
 #+TITLE: 輪王七寶經
 #+PROPERTY: CBETA_ID T01n0038
 #+PROPERTY: ID KR6a0038
